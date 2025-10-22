@@ -15,7 +15,7 @@ Home Chef Helper is a simple command-line tool built in Python to manage your co
 1. **Install Python:** Make sure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/).
 2. **Clone the Repository:** If you have `git` installed, you can clone this repository using:
    ```
-   git clone https://github.com/your-username/home-chef-helper.git
+   git clone https://github.com/DDurgeshmahajan/Home-Chef-Helper.git
    ```
    Otherwise, download the zip file and extract it.
 3. **Run the Application:** Navigate to the project directory and run the script using:
